@@ -12,4 +12,3 @@ paperurl: 'https://zixiaof.github.io/zixiao.github.io/files/resume.pdf'
 
 [Download PDF here](https://zixiaof.github.io/zixiao.github.io/files/resume.pdf)
 
-https://zixiaof.github.io/zixiao.github.io/files/resume.pdf
