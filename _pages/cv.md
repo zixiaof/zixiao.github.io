@@ -11,4 +11,4 @@ redirect_from:
 
 **Click to download my resume in PDF**
 
-[Download PDF here](http://zixiaof/zixiao.github.io/files/Resume 2020.10.pdf)
+[Download PDF here](http://zixiaof/zixiao.github.io/files/Resume.git.pdf)
