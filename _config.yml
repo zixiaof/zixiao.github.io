@@ -10,7 +10,7 @@ locale                   : "Hong Kong"
 title                    : "Feng Zixiao"
 title_separator          : "-"
 name                     : &name "Feng Zixiao"
-description              : &description "Currently a Research Assistant at Hong Kong Baptist University (Department of Economics)"
+description              : &description "Research Assistant, Hong Kong Baptist University (Department of Economics)"
 url                      : https://zixiaof.github.io/zixiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://zixiaof.github.io/zixiao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Feng Zixiao"
   avatar           : "tt1.png"
-  bio              : "Research Assistant at Hong Kong Baptist University (Department of Economics)"
+  bio              : "Research Assistant, Hong Kong Baptist University (Department of Economics)"
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/zixiao-f-0b559313b"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
