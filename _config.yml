@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 Wechat:
-  username               : zixiaof5
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -87,8 +87,8 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "zixiaof@hkbu.edu.hk"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zixiaof"
+  github           : "zixiaof/my.works"
   google_plus      :
   keybase          :
   instagram        :
