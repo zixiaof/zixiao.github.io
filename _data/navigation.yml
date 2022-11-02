@@ -1,18 +1,21 @@
 # main links links
 main:
-  - title: "About me"
-    url: /publications/
+
 
   - title: "CV"
     url: /cv/
+  
+  - title: "Research"
+    url: /year-archive/
     
   - title: "Learning"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching Assistance"
     url: /teaching/    
-        
-  - title: "Works"
-    url: /year-archive/
+  
+  - title: "Gallary"
+    url: /publications/
+
     
 
