@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'https://zixiaof/zixiao.github.io/files/resume.git.pdf'
+paperurl: 'https://zixiao.github.io/files/resume.git.pdf'
 ---
 
 **Click to download my resume in PDF**
 
-[Download PDF here](https://zixiaof/zixiao.github.io/files/resume.git.pdf)
+[Download PDF here](https://zixiao.github.io/files/resume.git.pdf)
 
