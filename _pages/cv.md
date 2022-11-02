@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /files/Resume.git.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,4 +11,4 @@ redirect_from:
 
 **Click to download my resume in PDF**
 
-[Download PDF here](http://zixiaof/zixiao.github.io/files/Resume.git.pdf)
+[Download PDF here](http://zixiaof.github.io/zixiao/files/Resume.git.pdf)
