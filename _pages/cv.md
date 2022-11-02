@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /files/Resume.git.pdf
 author_profile: true
 redirect_from:
   - /resume
