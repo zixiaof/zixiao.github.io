@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, My name is Feng Zixiao. The first name is pronounced as "Tsee Shaw" in English. 
+Hello, My name is Feng Zixiao. I come from China and the first name is pronounced as "Tsee Shaw" in English. 
 
-I received my BA degree from Wilfrid Laurier University in Canada and I was previously a graduate student in the MSc Applied Economics program at Hong Kong Baptist University, and I am currently working in the same department as a Research Assistant.
+I received my Bachelor's degree from Wilfrid Laurier University in Canada (Economics) and my Master's from Hong Kong Baptist University (also Economics). After graduated, I stayed in the Department of Economics and currently working as a Research Assistant.
 
 <br/><br/> 
 <br/><br/> 
