@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong"
+locale                   : "New York"
 title                    : "Feng Zixiao"
 title_separator          : "-"
 name                     : &name "Feng Zixiao"
-description              : &description "Research Assistant, Hong Kong Baptist University (Department of Economics)"
+description              : &description ""
 url                      : https://zixiaof.github.io/zixiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://zixiaof.github.io/zixiao.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Feng Zixiao"
   avatar           : "tt1.png"
-  bio              : "Research Assistant, Hong Kong Baptist University (Department of Economics)"
-  location         : "Hong Kong"
+  bio              : ""
+  location         : "New York"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/zixiao-f-0b559313b"
+  linkedin         : "www.linkedin.com/in/zfeng5/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
